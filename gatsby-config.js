@@ -1,15 +1,15 @@
 module.exports = {
   pathPrefix: "/leonids",
   siteMetadata: {
-    title: `Leonids`,
+    title: `Eddie G`,
     author: {
-      name: `@ry_zou`,
-      summary: `web dev`,
+      name: `Eddie`,
+      summary: `writing code and stuff`,
     },
-    description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
-    siteUrl: `https://renyuanz.github.io/leonids`,
+    description: `where I talk my shit`,
+    siteUrl: `https://eddieg.me`,
     social: {
-      twitter: `ry_zou`,
+      twitter: `EddieGdotme`,
     },
     defaultImage: "images/bg.jpeg",
   },
@@ -68,7 +68,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/eg-one.png`,
       },
     },
     `gatsby-plugin-react-helmet`,

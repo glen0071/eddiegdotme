@@ -21,6 +21,7 @@ const Layout = ({ location, title, children }) => {
             className="leading-none p-1"
             onClick={() => toggleTheme(isDarkMode ? "light" : "dark")}
           >
+            {/* TODO: pull these svgs into other files */}
             {isDarkMode ? (
               <svg
                 width="24"
