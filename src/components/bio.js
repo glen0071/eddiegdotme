@@ -57,7 +57,7 @@ const Bio = () => {
         }}
       />
       <p>
-        By Eddie Glenn. Writing code and stuff, anxiously concerned with the needs of the age he lives in.
+        By Eddie Glenn. Writing code and stuff, anxiously concerned with the needs of the age I live in.
       </p>
     </div>
   )
