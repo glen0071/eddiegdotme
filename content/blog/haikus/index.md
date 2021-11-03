@@ -6,50 +6,56 @@ categories: [haikus]
 comments: true
 ---
 
-Friend, your cup is full <br/>
-Thus, I will learn to be brief <br/>
-I offer one drop
+Friend, your cup is full. <br/>
+I will learn to be brief. I <br/>
+offer but one drop. <br/>
+
+The sun has risen <br/>
+to never set again. Still <br/>
+we crawl through shadows. <br/>
+
+I have never looked <br/>
+directly at the sun. The <br/>
+thought of it pains me. <br/>
+
+The sun’s rays warm the <br/>
+soil, rock, and rose alike. <br/>
+Each is thankful. <br/>
+
+---
+
+My eyelid’s power: <br/>
+The sun gives life to the world, <br/>
+yet it is obscured. <br/>
+
+I suffer in my <br/>
+remoteness from thee. My most <br/>
+chronic delusion. <br/>
+
+I can’t find a way <br/>
+by myself. I can draw maps. <br/>
+You’ll make a compass. <br/>
+
+---
 
 The height of this tree <br/>
 can draw down more rain upon <br/>
-seeds and seeds to come
+seeds and seeds to come <br/>
 
 Which tree before me <br/>
 grew so high it pierced the sky <br/>
-shedding rain on me
-
-I looked for a cage <br/>
-Arising without intent <br/>
-I could not find one
-
-The sun has risen <br/>
-So it will not set again <br/>
-We crawl through shadows
-
-Your eyelid’s power: <br/>
-The sun gives life to the world <br/>
-Yet it is obscured
+shedding rain on me <br/>
 
 The day will come when <br/>
-Hunger exceeds the harvest <br/>
-Plant love ev’rywhere
+hunger exceeds the harvest. <br/>
+Plant love ev’rywhere. <br/>
+
+---
 
 Sit quiet enough <br/>
 To hear your heartbeat. <br/>
-Stop reading. Listen.
-
-I can’t find a way <br/>
-By myself. I can draw maps. <br/>
-You make a compass.
-
-The sun’s rays bless the <br/>
-Soil, the rocks, the rose alike <br/>
-And each is thankful.
+Stop reading. Listen. <br/>
 
 Your path to God is <br/>
 Broader than the horizon. <br/>
-Step, listen, repeat.
-
-I have never looked <br/>
-Directly at the sun. The <br/>
-thought alone pains me.
+Step, listen, repeat. <br/>
