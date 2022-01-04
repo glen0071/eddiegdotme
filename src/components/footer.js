@@ -7,6 +7,7 @@ const quotes = [
   `"Tell the rich of the midnight sighing of the poor..." - Bahá'u'lláh`,
   `“...however dark the immediate horizons, we must go forward rejoicing in the knowledge that the work we are privileged to perform is God’s work and will bring to birth a world whose splendor will outshine our brightest visions and surpass our highest hopes.” - Universal House of Justice`,
   `"True peace and tranquility will only be realized when every soul will have become the well-wisher of all mankind." - Bahá'u'lláh`,
+  "'The function of art is to do more than tell it like it is, it’s to imagine what is possible.' - bell hooks"
 ]
 
 const NavLink = styled.a`
